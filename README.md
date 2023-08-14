@@ -5,7 +5,7 @@ The **Gene Set Correlation Enrichment Analysis** (Gscore) is a powerful pathway 
 The register-free online tool is available on: https://gscore.ibsb.nycu.edu.tw/
 
 ### Overview
-
+![Alt text](./readme_img/1.png)
 
 
 [![DOI](https://zenodo.org/badge/678241997.svg)](https://zenodo.org/badge/latestdoi/678241997)
