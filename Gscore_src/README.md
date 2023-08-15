@@ -1,7 +1,7 @@
 ## Usage
 ### 1DEG_pearson_correlation.py
 ```shell
-$ python 1DEG_pearson_correlation.py -e ./sample_data_input/example_GEM.txt -g ./sample_data_input/example_allDEG.txt -o ./sample_data_output/example_pcc.txt
+python 1DEG_pearson_correlation.py -e ./sample_data_input/example_GEM.txt -g ./sample_data_input/example_allDEG.txt -o ./sample_data_output/example_pcc.txt
 ```
 Argument | Variable | Description | Default value
 ------------ | ------------- | ------------- | -------------
@@ -11,7 +11,7 @@ Argument | Variable | Description | Default value
 
 ### 2Gscore.py
 ```shell
-$ python 2Gscore.py -n ./sample_data_output/example_pcc.txt -g ./sample_data_input/example_allDEG.txt -p ./sample_data_input/example_GeneSet_KEGG_v102.txt -q ./sample_data_input/example_query_DEG.txt -t 0.7 -io ./sample_data_output/example_individual_DEG_result.txt -lo ./sample_data_output/example_DEG_list_result.txt
+python 2Gscore.py -n ./sample_data_output/example_pcc.txt -g ./sample_data_input/example_allDEG.txt -p ./sample_data_input/example_GeneSet_KEGG_v102.txt -q ./sample_data_input/example_query_DEG.txt -t 0.7 -io ./sample_data_output/example_individual_DEG_result.txt -lo ./sample_data_output/example_DEG_list_result.txt
 ```
 Argument | Variable | Description | Default value
 ------------ | ------------- | ------------- | -------------
