@@ -1,0 +1,273 @@
+adjp	Rank	methods_dataset	path_name	dataset	methods
+1.80E-32	3	Gscore_fdrq_GSE157103	Coronavirus disease - COVID-19	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Coronavirus disease - COVID-19	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Coronavirus disease - COVID-19	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Coronavirus disease - COVID-19	GSE157103	SPIA
+NA		PADOG_GSE157103	Coronavirus disease - COVID-19	GSE157103	PADOG
+NA		GSA_GSE157103	Coronavirus disease - COVID-19	GSE157103	GSA
+NA		GSEA_GSE157103	Coronavirus disease - COVID-19	GSE157103	GSEA
+0.01260761	12	ORA_GSE157103	Coronavirus disease - COVID-19	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Neutrophil extracellular trap formation	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Neutrophil extracellular trap formation	GSE157103	NEA_merged6
+0.002131497	4	ROntoTools_GSE157103	Neutrophil extracellular trap formation	GSE157103	ROntoTools
+0.002651286	4	SPIA_GSE157103	Neutrophil extracellular trap formation	GSE157103	SPIA
+NA		PADOG_GSE157103	Neutrophil extracellular trap formation	GSE157103	PADOG
+NA		GSA_GSE157103	Neutrophil extracellular trap formation	GSE157103	GSA
+0.24282	115	GSEA_GSE157103	Neutrophil extracellular trap formation	GSE157103	GSEA
+0.000184383	6	ORA_GSE157103	Neutrophil extracellular trap formation	GSE157103	ORA
+1.13E-11	12	Gscore_fdrq_GSE157103	NOD-like receptor signaling pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	NOD-like receptor signaling pathway	GSE157103	NEA_merged6
+0.000145306	1	ROntoTools_GSE157103	NOD-like receptor signaling pathway	GSE157103	ROntoTools
+3.95E-05	2	SPIA_GSE157103	NOD-like receptor signaling pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	NOD-like receptor signaling pathway	GSE157103	PADOG
+NA		GSA_GSE157103	NOD-like receptor signaling pathway	GSE157103	GSA
+NA		GSEA_GSE157103	NOD-like receptor signaling pathway	GSE157103	GSEA
+6.38E-06	4	ORA_GSE157103	NOD-like receptor signaling pathway	GSE157103	ORA
+1.97E-09	20	Gscore_fdrq_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	PADOG
+NA		GSA_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	GSA
+NA		GSEA_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	GSEA
+NA		ORA_GSE157103	Cytosolic DNA-sensing pathway	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	TNF signaling pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	TNF signaling pathway	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	TNF signaling pathway	GSE157103	ROntoTools
+NA		SPIA_GSE157103	TNF signaling pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	TNF signaling pathway	GSE157103	PADOG
+NA		GSA_GSE157103	TNF signaling pathway	GSE157103	GSA
+0.22717	90	GSEA_GSE157103	TNF signaling pathway	GSE157103	GSEA
+NA		ORA_GSE157103	TNF signaling pathway	GSE157103	ORA
+2.67E-10	16	Gscore_fdrq_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	ROntoTools
+NA		SPIA_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	PADOG
+NA		GSA_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	GSA
+NA		GSEA_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	GSEA
+NA		ORA_GSE157103	RIG-I-like receptor signaling pathway	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	SPIA
+NA		PADOG_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	PADOG
+NA		GSA_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	GSA
+NA		GSEA_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	GSEA
+NA		ORA_GSE157103	Natural killer cell mediated cytotoxicity	GSE157103	ORA
+0.001111562	39	Gscore_fdrq_GSE157103	JAK-STAT signaling pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	JAK-STAT signaling pathway	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	JAK-STAT signaling pathway	GSE157103	ROntoTools
+NA		SPIA_GSE157103	JAK-STAT signaling pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	JAK-STAT signaling pathway	GSE157103	PADOG
+NA		GSA_GSE157103	JAK-STAT signaling pathway	GSE157103	GSA
+NA		GSEA_GSE157103	JAK-STAT signaling pathway	GSE157103	GSEA
+NA		ORA_GSE157103	JAK-STAT signaling pathway	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Complement and coagulation cascades	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Complement and coagulation cascades	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Complement and coagulation cascades	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Complement and coagulation cascades	GSE157103	SPIA
+NA		PADOG_GSE157103	Complement and coagulation cascades	GSE157103	PADOG
+NA		GSA_GSE157103	Complement and coagulation cascades	GSE157103	GSA
+NA		GSEA_GSE157103	Complement and coagulation cascades	GSE157103	GSEA
+NA		ORA_GSE157103	Complement and coagulation cascades	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Leukocyte transendothelial migration	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Leukocyte transendothelial migration	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Leukocyte transendothelial migration	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Leukocyte transendothelial migration	GSE157103	SPIA
+NA		PADOG_GSE157103	Leukocyte transendothelial migration	GSE157103	PADOG
+NA		GSA_GSE157103	Leukocyte transendothelial migration	GSE157103	GSA
+NA		GSEA_GSE157103	Leukocyte transendothelial migration	GSE157103	GSEA
+NA		ORA_GSE157103	Leukocyte transendothelial migration	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Vascular smooth muscle contraction	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Vascular smooth muscle contraction	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Vascular smooth muscle contraction	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Vascular smooth muscle contraction	GSE157103	SPIA
+NA		PADOG_GSE157103	Vascular smooth muscle contraction	GSE157103	PADOG
+NA		GSA_GSE157103	Vascular smooth muscle contraction	GSE157103	GSA
+NA		GSEA_GSE157103	Vascular smooth muscle contraction	GSE157103	GSEA
+NA		ORA_GSE157103	Vascular smooth muscle contraction	GSE157103	ORA
+1.16E-05	30	Gscore_fdrq_GSE157103	Toll-like receptor signaling pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Toll-like receptor signaling pathway	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Toll-like receptor signaling pathway	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Toll-like receptor signaling pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	Toll-like receptor signaling pathway	GSE157103	PADOG
+NA		GSA_GSE157103	Toll-like receptor signaling pathway	GSE157103	GSA
+NA		GSEA_GSE157103	Toll-like receptor signaling pathway	GSE157103	GSEA
+NA		ORA_GSE157103	Toll-like receptor signaling pathway	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Platelet activation	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Platelet activation	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Platelet activation	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Platelet activation	GSE157103	SPIA
+NA		PADOG_GSE157103	Platelet activation	GSE157103	PADOG
+NA		GSA_GSE157103	Platelet activation	GSE157103	GSA
+0.23129	96	GSEA_GSE157103	Platelet activation	GSE157103	GSEA
+NA		ORA_GSE157103	Platelet activation	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Endocytosis	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Endocytosis	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Endocytosis	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Endocytosis	GSE157103	SPIA
+NA		PADOG_GSE157103	Endocytosis	GSE157103	PADOG
+NA		GSA_GSE157103	Endocytosis	GSE157103	GSA
+NA		GSEA_GSE157103	Endocytosis	GSE157103	GSEA
+NA		ORA_GSE157103	Endocytosis	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Renin-angiotensin system	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Renin-angiotensin system	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Renin-angiotensin system	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Renin-angiotensin system	GSE157103	SPIA
+NA		PADOG_GSE157103	Renin-angiotensin system	GSE157103	PADOG
+NA		GSA_GSE157103	Renin-angiotensin system	GSE157103	GSA
+NA		GSEA_GSE157103	Renin-angiotensin system	GSE157103	GSEA
+NA		ORA_GSE157103	Renin-angiotensin system	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	mRNA surveillance pathway	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	mRNA surveillance pathway	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	mRNA surveillance pathway	GSE157103	ROntoTools
+NA		SPIA_GSE157103	mRNA surveillance pathway	GSE157103	SPIA
+NA		PADOG_GSE157103	mRNA surveillance pathway	GSE157103	PADOG
+NA		GSA_GSE157103	mRNA surveillance pathway	GSE157103	GSA
+NA		GSEA_GSE157103	mRNA surveillance pathway	GSE157103	GSEA
+NA		ORA_GSE157103	mRNA surveillance pathway	GSE157103	ORA
+NA		Gscore_fdrq_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	Gscore_fdrq
+NA		NEA_merged6_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	NEA_merged6
+NA		ROntoTools_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	ROntoTools
+NA		SPIA_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	SPIA
+NA		PADOG_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	PADOG
+NA		GSA_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	GSA
+0.22591	82	GSEA_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	GSEA
+NA		ORA_GSE157103	Fc gamma R-mediated phagocytosis	GSE157103	ORA
+NA		Gscore_fdrq_GSE150316	Coronavirus disease - COVID-19	GSE150316	Gscore_fdrq
+NA		NEA_merged6_GSE150316	Coronavirus disease - COVID-19	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Coronavirus disease - COVID-19	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Coronavirus disease - COVID-19	GSE150316	SPIA
+NA		PADOG_GSE150316	Coronavirus disease - COVID-19	GSE150316	PADOG
+NA		GSA_GSE150316	Coronavirus disease - COVID-19	GSE150316	GSA
+NA		GSEA_GSE150316	Coronavirus disease - COVID-19	GSE150316	GSEA
+NA		ORA_GSE150316	Coronavirus disease - COVID-19	GSE150316	ORA
+1.39E-232	1	Gscore_fdrq_GSE150316	Neutrophil extracellular trap formation	GSE150316	Gscore_fdrq
+3.73E-31	46	NEA_merged6_GSE150316	Neutrophil extracellular trap formation	GSE150316	NEA_merged6
+0.00237425	3	ROntoTools_GSE150316	Neutrophil extracellular trap formation	GSE150316	ROntoTools
+0.01006467	4	SPIA_GSE150316	Neutrophil extracellular trap formation	GSE150316	SPIA
+NA		PADOG_GSE150316	Neutrophil extracellular trap formation	GSE150316	PADOG
+NA		GSA_GSE150316	Neutrophil extracellular trap formation	GSE150316	GSA
+NA		GSEA_GSE150316	Neutrophil extracellular trap formation	GSE150316	GSEA
+0.001837214	5	ORA_GSE150316	Neutrophil extracellular trap formation	GSE150316	ORA
+5.87E-66	30	Gscore_fdrq_GSE150316	NOD-like receptor signaling pathway	GSE150316	Gscore_fdrq
+1.09E-12	113	NEA_merged6_GSE150316	NOD-like receptor signaling pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	NOD-like receptor signaling pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	NOD-like receptor signaling pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	NOD-like receptor signaling pathway	GSE150316	PADOG
+NA		GSA_GSE150316	NOD-like receptor signaling pathway	GSE150316	GSA
+NA		GSEA_GSE150316	NOD-like receptor signaling pathway	GSE150316	GSEA
+NA		ORA_GSE150316	NOD-like receptor signaling pathway	GSE150316	ORA
+2.94E-07	109	Gscore_fdrq_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	Gscore_fdrq
+NA		NEA_merged6_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	PADOG
+NA		GSA_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	GSA
+NA		GSEA_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	GSEA
+NA		ORA_GSE150316	Cytosolic DNA-sensing pathway	GSE150316	ORA
+9.29E-14	90	Gscore_fdrq_GSE150316	TNF signaling pathway	GSE150316	Gscore_fdrq
+2.36E-22	65	NEA_merged6_GSE150316	TNF signaling pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	TNF signaling pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	TNF signaling pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	TNF signaling pathway	GSE150316	PADOG
+NA		GSA_GSE150316	TNF signaling pathway	GSE150316	GSA
+NA		GSEA_GSE150316	TNF signaling pathway	GSE150316	GSEA
+NA		ORA_GSE150316	TNF signaling pathway	GSE150316	ORA
+NA		Gscore_fdrq_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	Gscore_fdrq
+5.36E-12	117	NEA_merged6_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	PADOG
+NA		GSA_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	GSA
+NA		GSEA_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	GSEA
+NA		ORA_GSE150316	RIG-I-like receptor signaling pathway	GSE150316	ORA
+3.97E-18	84	Gscore_fdrq_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	Gscore_fdrq
+3.63E-23	63	NEA_merged6_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	SPIA
+NA		PADOG_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	PADOG
+NA		GSA_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	GSA
+NA		GSEA_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	GSEA
+NA		ORA_GSE150316	Natural killer cell mediated cytotoxicity	GSE150316	ORA
+0.000615061	124	Gscore_fdrq_GSE150316	JAK-STAT signaling pathway	GSE150316	Gscore_fdrq
+5.09E-37	37	NEA_merged6_GSE150316	JAK-STAT signaling pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	JAK-STAT signaling pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	JAK-STAT signaling pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	JAK-STAT signaling pathway	GSE150316	PADOG
+NA		GSA_GSE150316	JAK-STAT signaling pathway	GSE150316	GSA
+NA		GSEA_GSE150316	JAK-STAT signaling pathway	GSE150316	GSEA
+NA		ORA_GSE150316	JAK-STAT signaling pathway	GSE150316	ORA
+1.84E-78	23	Gscore_fdrq_GSE150316	Complement and coagulation cascades	GSE150316	Gscore_fdrq
+7.25E-53	26	NEA_merged6_GSE150316	Complement and coagulation cascades	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Complement and coagulation cascades	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Complement and coagulation cascades	GSE150316	SPIA
+NA		PADOG_GSE150316	Complement and coagulation cascades	GSE150316	PADOG
+NA		GSA_GSE150316	Complement and coagulation cascades	GSE150316	GSA
+NA		GSEA_GSE150316	Complement and coagulation cascades	GSE150316	GSEA
+NA		ORA_GSE150316	Complement and coagulation cascades	GSE150316	ORA
+1.19E-15	86	Gscore_fdrq_GSE150316	Leukocyte transendothelial migration	GSE150316	Gscore_fdrq
+1.15E-09	135	NEA_merged6_GSE150316	Leukocyte transendothelial migration	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Leukocyte transendothelial migration	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Leukocyte transendothelial migration	GSE150316	SPIA
+NA		PADOG_GSE150316	Leukocyte transendothelial migration	GSE150316	PADOG
+NA		GSA_GSE150316	Leukocyte transendothelial migration	GSE150316	GSA
+NA		GSEA_GSE150316	Leukocyte transendothelial migration	GSE150316	GSEA
+NA		ORA_GSE150316	Leukocyte transendothelial migration	GSE150316	ORA
+NA		Gscore_fdrq_GSE150316	Vascular smooth muscle contraction	GSE150316	Gscore_fdrq
+7.32E-05	196	NEA_merged6_GSE150316	Vascular smooth muscle contraction	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Vascular smooth muscle contraction	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Vascular smooth muscle contraction	GSE150316	SPIA
+0.048	46	PADOG_GSE150316	Vascular smooth muscle contraction	GSE150316	PADOG
+NA		GSA_GSE150316	Vascular smooth muscle contraction	GSE150316	GSA
+NA		GSEA_GSE150316	Vascular smooth muscle contraction	GSE150316	GSEA
+NA		ORA_GSE150316	Vascular smooth muscle contraction	GSE150316	ORA
+NA		Gscore_fdrq_GSE150316	Toll-like receptor signaling pathway	GSE150316	Gscore_fdrq
+1.51E-29	49	NEA_merged6_GSE150316	Toll-like receptor signaling pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Toll-like receptor signaling pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Toll-like receptor signaling pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	Toll-like receptor signaling pathway	GSE150316	PADOG
+NA		GSA_GSE150316	Toll-like receptor signaling pathway	GSE150316	GSA
+NA		GSEA_GSE150316	Toll-like receptor signaling pathway	GSE150316	GSEA
+NA		ORA_GSE150316	Toll-like receptor signaling pathway	GSE150316	ORA
+NA		Gscore_fdrq_GSE150316	Platelet activation	GSE150316	Gscore_fdrq
+9.55E-06	183	NEA_merged6_GSE150316	Platelet activation	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Platelet activation	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Platelet activation	GSE150316	SPIA
+NA		PADOG_GSE150316	Platelet activation	GSE150316	PADOG
+NA		GSA_GSE150316	Platelet activation	GSE150316	GSA
+NA		GSEA_GSE150316	Platelet activation	GSE150316	GSEA
+NA		ORA_GSE150316	Platelet activation	GSE150316	ORA
+4.39E-08	105	Gscore_fdrq_GSE150316	Endocytosis	GSE150316	Gscore_fdrq
+NA		NEA_merged6_GSE150316	Endocytosis	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Endocytosis	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Endocytosis	GSE150316	SPIA
+NA		PADOG_GSE150316	Endocytosis	GSE150316	PADOG
+NA		GSA_GSE150316	Endocytosis	GSE150316	GSA
+NA		GSEA_GSE150316	Endocytosis	GSE150316	GSEA
+NA		ORA_GSE150316	Endocytosis	GSE150316	ORA
+NA		Gscore_fdrq_GSE150316	Renin-angiotensin system	GSE150316	Gscore_fdrq
+0.006857505	235	NEA_merged6_GSE150316	Renin-angiotensin system	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Renin-angiotensin system	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Renin-angiotensin system	GSE150316	SPIA
+NA		PADOG_GSE150316	Renin-angiotensin system	GSE150316	PADOG
+NA		GSA_GSE150316	Renin-angiotensin system	GSE150316	GSA
+NA		GSEA_GSE150316	Renin-angiotensin system	GSE150316	GSEA
+NA		ORA_GSE150316	Renin-angiotensin system	GSE150316	ORA
+1.07E-25	76	Gscore_fdrq_GSE150316	mRNA surveillance pathway	GSE150316	Gscore_fdrq
+NA		NEA_merged6_GSE150316	mRNA surveillance pathway	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	mRNA surveillance pathway	GSE150316	ROntoTools
+NA		SPIA_GSE150316	mRNA surveillance pathway	GSE150316	SPIA
+NA		PADOG_GSE150316	mRNA surveillance pathway	GSE150316	PADOG
+NA		GSA_GSE150316	mRNA surveillance pathway	GSE150316	GSA
+NA		GSEA_GSE150316	mRNA surveillance pathway	GSE150316	GSEA
+NA		ORA_GSE150316	mRNA surveillance pathway	GSE150316	ORA
+NA		Gscore_fdrq_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	Gscore_fdrq
+0.010773651	241	NEA_merged6_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	NEA_merged6
+NA		ROntoTools_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	ROntoTools
+NA		SPIA_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	SPIA
+NA		PADOG_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	PADOG
+NA		GSA_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	GSA
+NA		GSEA_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	GSEA
+NA		ORA_GSE150316	Fc gamma R-mediated phagocytosis	GSE150316	ORA
