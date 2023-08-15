@@ -29,7 +29,7 @@ for line in lines[1:]:
         thresh[temp[1]+'-'+temp[0]]=0
 
 #read gene set data
-fp=open('sample_data_input'+'/'+'KEGG_347_hsa_pathway_v102.txt','r')
+fp=open('sample_data_input'+'/'+'KEGG_hsa_pathway_v102.txt','r')
 Pathway={}
 AllPathway={}
 lines=fp.readlines()
