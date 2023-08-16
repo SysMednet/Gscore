@@ -29,7 +29,7 @@ where *m* and *n* are, respectively, the numbers of coexpressed gene pairs and a
 
 $$\Large p=1-\sum_{i=0}^{m_g-1}\frac{\binom{M_g}{i}\binom{N_g-M_g}{n_g-i}}{\binom{N_g}{n_g}}$$  
 
-where $m_g$ and $n_g$ are, respectively, the numbers of coexpressed gene pairs and all possible gene pairs between all the DEGs of the query list and all the DEGs in a specific gene set. $M_g$ and $N_g$ are, respectively, the total numbers of all the coexpressed gene pairs and all possible gene pairs between all the DEGs of the query list and all the DEGs of gene sets in the selected collection. Here, the association between the query DEG list and a certain gene set was considered statistically significant **when its FDR *q* value was ≤ 0.05** (Benjamini–Hochberg correction4).
+where $m_g$ and $n_g$ are, respectively, the numbers of coexpressed gene pairs and all possible gene pairs between all the DEGs of the query list and all the DEGs in a specific gene set. $M_g$ and $N_g$ are, respectively, the total numbers of all the coexpressed gene pairs and all possible gene pairs between all the DEGs of the query list and all the DEGs of gene sets in the selected collection. Here, the association between the query DEG list and a certain gene set was considered statistically significant **when its FDR *q* value was ≤ 0.05** (Benjamini–Hochberg correction).
   
 More detail information is available on the tutorial of the website: https://gscore.ibsb.nycu.edu.tw/tutorial.html
 
