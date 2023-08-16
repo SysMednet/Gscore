@@ -11,13 +11,13 @@ Argument | Variable | Description | Default value
 
 ### 2Gscore.py
 ```shell
-python 2Gscore.py -n ./sample_data_output/example_pcc.txt -g ./sample_data_input/example_allDEG.txt -p ./sample_data_input/example_GeneSet_KEGG_v102.txt -q ./sample_data_input/example_query_DEG.txt -t 0.7 -io ./sample_data_output/example_individual_DEG_result.txt -lo ./sample_data_output/example_DEG_list_result.txt
+python 2Gscore.py -n ./sample_data_output/example_pcc.txt -g ./sample_data_input/example_allDEG.txt -s ./sample_data_input/example_GeneSet_KEGG_v102.txt -q ./sample_data_input/example_query_DEG.txt -t 0.7 -io ./sample_data_output/example_individual_DEG_result.txt -lo ./sample_data_output/example_DEG_list_result.txt
 ```
 Argument | Variable | Description | Default value
 ------------ | ------------- | ------------- | -------------
 -n | input_network | The Pearson correlation network. | ./sample_data_output/example_pcc.txt
 -g | input_DEG_list | The DEG list file, the DEG IDs are seperated by "\n". | ./sample_data_input/example_allDEG.txt
--p | input_geneset | The gene set collection file. | ./sample_data_input/example_GeneSet_KEGG_v102.txt
+-s | input_geneset | The gene set collection file. | ./sample_data_input/example_GeneSet_KEGG_v102.txt
 -q | input_query | The query DEG file, the DEG IDs are seperated by "\n". | ./sample_data_input/example_query_DEG.txt
 -t | input_cutoff | The threshold for Pearson correlation coefficient. | 0.7
 -io | output_path_single | The output file name for individual DEG result. | ./sample_data_output/example_individual_DEG_result.txt
