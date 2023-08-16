@@ -8,14 +8,14 @@ import argparse
 parser = argparse.ArgumentParser(description="Manual")
 parser.add_argument("-n", type=str , default='./sample_data_output/example_pcc.txt' , help='The Pearson correlation network.')
 parser.add_argument("-g", type=str , default='./sample_data_input/example_allDEG.txt' , help='The DEG list file, the DEG IDs are seperated by "\n".')
-parser.add_argument("-p", type=str , default='./sample_data_input/example_GeneSet_KEGG_v102.txt' , help='The gene set collection file.')
+parser.add_argument("-s", type=str , default='./sample_data_input/example_GeneSet_KEGG_v102.txt' , help='The gene set collection file.')
 parser.add_argument("-q", type=str , default='./sample_data_input/example_query_DEG.txt' , help='The query DEG file, the DEG IDs are seperated by "\n".')
 parser.add_argument("-t", type=float , default=0.7 , help='The threshold for Pearson correlation coefficient.')
 parser.add_argument("-io", type=str , default='./sample_data_output/example_individual_DEG_result.txt' , help='The output file name for individual DEG result.')
 parser.add_argument("-lo", type=str , default='./sample_data_output/example_DEG_list_result.txt' , help='The output file name for DEG list result.')
 
 args = parser.parse_args()
-input_network,input_DEG_list,input_geneset,input_query,input_cutoff, output_path_single, output_path_com = args.n, args.g, args.p, args.q, args.t, args.io, args.lo
+input_network,input_DEG_list,input_geneset,input_query,input_cutoff, output_path_single, output_path_com = args.n, args.g, args.s, args.q, args.t, args.io, args.lo
 
 pcc_cutoff = input_cutoff
 
