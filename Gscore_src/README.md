@@ -23,6 +23,7 @@ Argument | Variable | Description | Default value
 -io | output_path_single | The output file name for individual DEG result. | ./sample_data_output/example_individual_DEG_result.txt
 -lo | output_path_com | The output file name for DEG list result. | ./sample_data_output/example_DEG_list_result.txt
 
+More detail information is available on the tutorial of the website: https://gscore.ibsb.nycu.edu.tw/tutorial.html
 
 ## Required Dependencies
 
