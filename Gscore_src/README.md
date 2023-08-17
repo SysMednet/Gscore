@@ -18,7 +18,7 @@ Argument | Variable | Description | Default value
 -n | input_network | The coexpression network. | ./sample_data_output/example_pcc.txt
 -g | input_DEG_list | The DEG list, entrez IDs are separated by "\n". | ./sample_data_input/example_allDEG.txt
 -s | input_geneset | The gene set collection. | ./sample_data_input/example_GeneSet_KEGG_v102.txt
--q | input_query | The query DEGs, entrez IDs are separated by "\n". | ./sample_data_input/example_query_DEG.txt
+-q | input_query | The query DEG, entrez IDs are separated by "\n". | ./sample_data_input/example_query_DEG.txt
 -t | input_cutoff | Threshold for Pearson correlation coefficient. | 0.7
 -io | output_path_single | The filename for the individual DEG result. | ./sample_data_output/example_individual_DEG_result.txt
 -Lo | output_path_com | The filename for the DEG list result. | ./sample_data_output/example_DEG_list_result.txt
