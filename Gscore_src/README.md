@@ -6,7 +6,7 @@ python 1DEG_pearson_correlation.py -e ./sample_data_input/example_GEM.txt -g ./s
 Argument | Variable | Description | Default value
 ------------ | ------------- | ------------- | -------------
 -e | input_GEM | The gene expression data (.txt). | ./sample_data_input/example_GEM.txt
--g | input_DEG_list | The DEG list file, entrez IDs are separated by "\n". | ./sample_data_input/example_allDEG.txt
+-g | input_DEG_list | The DEG list file, Entrez IDs are separated by "\n". | ./sample_data_input/example_allDEG.txt
 -o | output_path | The filename for the output coexpression network. | ./sample_data_output/example_pcc.txt
 
 ### 2Gscore.py
